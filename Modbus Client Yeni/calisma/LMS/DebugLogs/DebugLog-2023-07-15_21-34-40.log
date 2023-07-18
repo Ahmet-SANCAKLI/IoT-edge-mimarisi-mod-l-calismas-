@@ -1,0 +1,14 @@
+2023-07-15 21:34:40
+OS Version     : Windows-10-10.0.19045-SP0||AMD64
+Python Version : 3.11.1 (tags/v3.11.1:a7a450f, Dec  6 2022, 19:58:39) [MSC v.1934 64 bit (AMD64)]
+Current working dir: C:\Users\ahmet\OneDrive\Desktop\IoT İLE İRTİBATLI CLİENT
+Debug & Log Folder : C:\Users\ahmet\OneDrive\Desktop\IoT İLE İRTİBATLI CLİENT\LMS\DebugLogs\
+2023-07-15 21:34:40>> ["Modbus lib 'pyModbusTCP' is imported"]
+2023-07-15 21:34:40>> ['Args exception => list index out of range107.218.3.14:1502']
+2023-07-15 21:34:40>> ['Socket settings => 107.218.3.14:1502']
+2023-07-15 21:34:40>> ['Modbus Client Obj generated']
+2023-07-15 21:34:40>> ['Modbus Client Obj IP:PORT are set @107.218.3.14:1502']
+2023-07-15 21:34:40>> ['Endless Loop is starting']
+2023-07-15 21:34:40>> ['Debug Count-0=>Register read OK']
+2023-07-15 21:34:41>> ['Debug Count-0=>[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]']
+2023-07-15 21:34:44>> ['Debug Count-1=>Register read OK']
